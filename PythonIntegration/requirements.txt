@@ -1,0 +1,8 @@
+# Python dependencies for Lego Simulator
+
+# No external dependencies required for basic functionality
+# The simulator uses only Python standard library
+
+# Optional: For enhanced features
+# numpy>=1.20.0  # For advanced calculations
+# pygame>=2.0.0  # For joystick/gamepad support
